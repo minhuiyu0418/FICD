@@ -1,9 +1,0 @@
-[project]
-name = "mri-pet-synth"
-version = "0.1.0"
-requires-python = ">=3.9"
-description = "MRI to multi-tracer PET synthesis - exported from notebook (no-src layout)"
-
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["mri_pet_synth*"]
